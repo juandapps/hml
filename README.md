@@ -40,7 +40,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author**
+👤 **Juan**
 
 - GitHub: [@juandapps](https://github.com/juandapps)
 - Twitter: [@juandapps](https://twitter.com/juandapps)
